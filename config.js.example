@@ -1,0 +1,3 @@
+exports.HOME_ID = "<YOUR HOME ID>"
+exports.USERNAME = "<YOUR TADO USERNAME>"
+exports.PASSWORD = "<YOUR TADO PASSWORD>"
