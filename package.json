@@ -6,7 +6,7 @@
   "dependencies": {
     "cors": "^2.8.4",
     "express": "~4.0.0",
-    "node-tado": "0.0.2"
+    "node-tado": "https://github.com/Zygimantass/node-tado/tarball/master"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
